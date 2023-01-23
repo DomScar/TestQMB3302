@@ -1,1 +1,9 @@
-
+y = -0
+if y > 0
+  if y > 5 
+    print('higher')
+  if y <= 5
+    print('lower')
+if y <=0
+  print('0 or less')
+ 
